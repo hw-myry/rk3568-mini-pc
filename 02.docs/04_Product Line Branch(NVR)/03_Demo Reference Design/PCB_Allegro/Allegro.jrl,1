@@ -1,0 +1,100 @@
+\t (00:00:03) Allegro 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Tue Apr  7 08:56:55 2026
+\t (00:00:03)         Host=MYRY User=wjq86 Pid=13708 CPUs=16
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.4\tools\bin\Allegro.exe C:\Github\rk3568-mini-pc\02.docs\04_Product Line Branch(NVR)\03_Demo Reference Design\PCB_Allegro\RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221YWQ_final.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:01:26) fillin yes 
+\i (00:01:26) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221YWQ_final"
+\d (00:01:26) Design opened: C:/Github/rk3568-mini-pc/02.docs/04_Product Line Branch(NVR)/03_Demo Reference Design/PCB_Allegro/RK_NVR_DEMO_RK3568_DDR4P216SD4_V12_20201221YWQ_final.brd
+   (00:01:26) Loading cmds.cxt 
+\i (00:01:26) trapsize 19186
+\i (00:01:27) trapsize 19490
+\i (00:01:27) trapsize 19186
+\i (00:01:27) trapsize 17166
+\i (00:01:27) trapsize 18592
+\i (00:01:27) generaledit 
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out -370.569 1044.436
+\i (00:01:28) trapsize 37184
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out -132.593 791.586
+\i (00:01:28) trapsize 74367
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in -1634.815 1743.490
+\i (00:01:29) trapsize 37184
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in -1686.872 1832.731
+\i (00:01:29) trapsize 18592
+\i (00:01:31) pick grid -5602.319 1903.380
+\t (00:01:31) last pick:  -5600.000 1905.000
+\i (00:01:35) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (00:01:35) updateport CVPane
+\i (00:01:36) QtSignal CVPLayerGrid CVPButtonEtchBottom rightClicked
+\i (00:01:37) QtSignal Popup CVPColorPickerButton49 clicked
+\i (00:01:37) updateport CVPane
+\i (00:01:39) QtSignal CVPLayerGrid CVPButtonPinBottom rightClicked
+\i (00:01:40) QtSignal Popup CVPColorPickerButton49 clicked
+\i (00:01:40) updateport CVPane
+\i (00:01:41) QtSignal CVPLayerGrid CVPButtonViaBottom rightClicked
+\i (00:01:42) QtSignal Popup CVPColorPickerButton49 clicked
+\i (00:01:42) updateport CVPane
+\i (00:01:43) QtSignal CVPLayerGrid CVPButtonEtchTop rightClicked
+\i (00:01:44) QtSignal Popup CVPColorPickerButton1 clicked
+\i (00:01:44) updateport CVPane
+\i (00:01:45) QtSignal CVPLayerGrid CVPButtonViaTop rightClicked
+\i (00:01:47) QtSignal Popup CVPColorPickerButton1 clicked
+\i (00:01:47) updateport CVPane
+\i (00:01:48) QtSignal CVPLayerGrid CVPButtonPinTop rightClicked
+\i (00:01:49) QtSignal Popup CVPColorPickerButton1 clicked
+\i (00:01:49) updateport CVPane
+\i (00:01:49) pick grid -6569.095 2951.961
+\t (00:01:49) last pick:  -6570.000 2950.000
+\i (00:01:51) QtSignal CVPLayerGrid CVPBoxAllPower clicked false
+\i (00:01:51) zoom out 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom out -4096.378 2238.034
+\i (00:01:51) trapsize 37184
+\i (00:01:53) pick grid -5553.979 2304.965
+\t (00:01:53) last pick:  -5555.000 2305.000
+\i (00:01:53) zoom in 1 
+\i (00:01:53) setwindow pcb
+\i (00:01:53) zoom in 298.739 1390.245
+\i (00:01:53) trapsize 18592
+\i (00:01:54) zoom in 1 
+\i (00:01:54) setwindow pcb
+\i (00:01:54) zoom in 1365.912 2271.500
+\i (00:01:54) trapsize 9296
+\i (00:01:55) zoom in 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom in 1367.771 2334.712
+\i (00:01:55) trapsize 4648
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 1108.415 2058.624
+\i (00:01:55) trapsize 9296
+\i (00:01:55) zoom out 1 
+\i (00:01:55) setwindow pcb
+\i (00:01:55) zoom out 1000.583 1999.129
+\i (00:01:55) trapsize 18592
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out -2773.566 1459.965
+\i (00:01:56) trapsize 37184
+\i (00:01:59) zoom in 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom in -1910.903 485.752
+\i (00:01:59) trapsize 18592
+\i (00:02:00) zoom out 1 
+\i (00:02:00) setwindow pcb
+\i (00:02:00) zoom out -2059.637 -209.583
+\i (00:02:00) trapsize 37184
+\i (00:02:02) pick grid 163.950 4118.603
+\t (00:02:02) last pick:  165.000 4120.000
+\i (00:02:04) exit 
+\t (00:02:04)     Journal end - Tue Apr  7 08:58:56 2026

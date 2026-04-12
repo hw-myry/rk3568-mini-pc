@@ -1,0 +1,201 @@
+\t (00:00:11) Allegro 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:11)     Journal start - Tue Apr  7 08:44:47 2026
+\t (00:00:11)         Host=MYRY User=wjq86 Pid=34908 CPUs=16
+\t (00:00:11) CmdLine= C:\Cadence\SPB_17.4\tools\bin\Allegro.exe C:\Github\rk3568-mini-pc\02.docs\02_DDR Template\RK3568_Template_LP4XD200P132SD6_43x28_1600MHz\RK3568_Template_LP4XD200P132SD6_43x28_1600MHz_V10_20210201.brd
+\t (00:00:11) 
+   (00:00:11) Loading axlcore.cxt 
+\t (00:00:20) Opening existing design...
+\i (00:00:23) fillin yes 
+\i (00:00:24) fillin yes 
+\i (00:00:24) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "RK3568_Template_LP4XD200P132SD6_43x28_1600MHz_V10_20210201"
+\d (00:00:24) Design opened: C:/Github/rk3568-mini-pc/02.docs/02_DDR Template/RK3568_Template_LP4XD200P132SD6_43x28_1600MHz/RK3568_Template_LP4XD200P132SD6_43x28_1600MHz_V10_20210201.brd
+   (00:00:24) Loading cmds.cxt 
+\i (00:00:24) trapsize 1529
+\i (00:00:24) trapsize 1637
+\i (00:00:24) trapsize 1529
+\i (00:00:24) trapsize 1020
+\i (00:00:24) trapsize 1020
+\i (00:00:25) generaledit 
+\i (00:00:27) trapsize 323
+\i (00:00:33) unrats component 
+\i (00:00:39) unrats all 
+\i (00:00:39) generaledit 
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -47.35 -808.82
+\i (00:00:39) trapsize 646
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -57.70 -811.40
+\i (00:00:39) trapsize 1292
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -2676.87 -811.40
+\i (00:00:39) trapsize 2583
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out -4461.42 2060.93
+\i (00:00:39) trapsize 2798
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 2068.17 -585.88
+\i (00:00:40) trapsize 1399
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in -514.25 -401.22
+\i (00:00:40) trapsize 699
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in -528.24 -394.22
+\i (00:00:40) trapsize 350
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 53.00 -295.60
+\i (00:00:41) trapsize 699
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 46.00 -301.19
+\i (00:00:41) trapsize 1399
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 45.99 -303.99
+\i (00:00:41) trapsize 2798
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 5906.69 572.39
+\i (00:00:41) trapsize 2798
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 1128.13 247.85
+\i (00:00:42) trapsize 1399
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 1584.06 -1.15
+\i (00:00:42) trapsize 699
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 534.91 59.00
+\i (00:00:43) trapsize 350
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 83.07 -31.22
+\i (00:00:44) trapsize 175
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 83.07 -30.87
+\i (00:00:44) trapsize 87
+\i (00:00:46) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 98.11 -6.39
+\i (00:00:47) trapsize 44
+\i (00:00:47) zoom in 1 
+\i (00:00:47) setwindow pcb
+\i (00:00:47) zoom in 99.42 -7.26
+\i (00:00:47) trapsize 22
+\i (00:00:49) pick grid 117.43 -1.22
+\t (00:00:49) last pick:  115.00 0.00
+\i (00:00:50) pick grid 122.45 -2.36
+\t (00:00:50) last pick:  120.00 0.00
+\i (00:00:50) pick grid 120.31 -3.32
+\t (00:00:50) last pick:  120.00 -5.00
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 118.87 -6.07
+\i (00:00:51) trapsize 44
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 118.69 -7.21
+\i (00:00:51) trapsize 87
+\i (00:00:51) zoom out 1 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) zoom out 118.52 -8.79
+\i (00:00:51) trapsize 175
+\i (00:00:52) zoom in 1 
+\i (00:00:52) setwindow pcb
+\i (00:00:52) zoom in 130.07 -40.27
+\i (00:00:52) trapsize 87
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 118.71 -36.60
+\i (00:00:53) trapsize 175
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 107.51 -40.45
+\i (00:00:53) trapsize 350
+\i (00:00:54) pick grid -338.75 -257.98
+\t (00:00:54) last pick:  -340.00 -260.00
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 240.41 -24.35
+\i (00:00:55) trapsize 175
+\i (00:01:01) setwindow form.find
+\i (00:01:01) FORM find all_off  
+\i (00:01:02) FORM find nets YES 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 203.34 -15.61
+\i (00:01:03) trapsize 87
+\i (00:01:03) zoom in 1 
+\i (00:01:03) setwindow pcb
+\i (00:01:03) zoom in 203.51 -15.61
+\i (00:01:03) trapsize 44
+\i (00:01:05) pick grid 140.65 -15.00
+\t (00:01:05) last pick:  140.00 -15.00
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 137.59 -18.23
+\i (00:01:05) trapsize 87
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out 138.46 -18.24
+\i (00:01:05) trapsize 175
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 163.64 -72.79
+\i (00:01:06) trapsize 350
+\i (00:01:06) zoom out 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom out 163.64 -72.79
+\i (00:01:06) trapsize 699
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 352.49 -677.13
+\i (00:01:07) trapsize 350
+\i (00:01:07) zoom in 1 
+\i (00:01:07) setwindow pcb
+\i (00:01:07) zoom in 351.80 -677.13
+\i (00:01:07) trapsize 175
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 255.28 -345.93
+\i (00:01:08) trapsize 350
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 255.27 -345.92
+\i (00:01:08) trapsize 699
+\i (00:01:09) zoom in 1 
+\i (00:01:09) setwindow pcb
+\i (00:01:09) zoom in -146.22 220.65
+\i (00:01:09) trapsize 350
+\i (00:01:10) zoom in 1 
+\i (00:01:10) setwindow pcb
+\i (00:01:10) zoom in 154.56 56.98
+\i (00:01:10) trapsize 175
+\i (00:01:12) zoom in 1 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) zoom in 213.31 30.75
+\i (00:01:12) trapsize 87
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 219.26 29.00
+\i (00:01:16) trapsize 175
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 219.25 29.00
+\i (00:01:17) trapsize 87
+\i (00:11:59) exit 
+\e (00:11:59) Do you want to save the changes you made to RK3568_Template_LP4XD200P132SD6_43x28_1600MHz_V10_20210201.brd?
+\i (00:12:02) fillin no 
+\t (00:12:02)     Journal end - Tue Apr  7 08:56:38 2026

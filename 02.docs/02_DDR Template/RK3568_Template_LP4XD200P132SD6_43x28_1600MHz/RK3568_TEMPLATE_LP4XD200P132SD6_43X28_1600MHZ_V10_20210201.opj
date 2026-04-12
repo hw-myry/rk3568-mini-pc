@@ -1,0 +1,88 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S039 (4153571)  [11/4/2023]-[01/29/21]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\rk3568_template_lp4xd200p132sd6_43x28_1600mhz_v10_20210201.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         ".\rk3568_template_lp4xd200p132sd6_43x28_1600mhz_v10_20210201.dsn")
+      (Path "Design Resources"
+         ".\rk3568_template_lp4xd200p132sd6_43x28_1600mhz_v10_20210201.dsn"
+         "RK3568_AIoT_REF_SCH")
+      (Select "Design Resources"
+         ".\rk3568_template_lp4xd200p132sd6_43x28_1600mhz_v10_20210201.dsn"
+         "RK3568_AIoT_REF_SCH" "38.DRAM-LPDDR4X_1X32bit_200P"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 312 0 554"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 411 28 576")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\GITHUB\RK3568-MINI-PC\02.DOCS\02_DDR TEMPLATE\RK3568_TEMPLATE_LP4XD200P132SD6_43X28_1600MHZ\RK3568_TEMPLATE_LP4XD200P132SD6_43X28_1600MHZ_V10_20210201.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "10.RK3568_Power/GND"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 411 28 576")
+        (Scroll "0 283")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\GITHUB\RK3568-MINI-PC\02.DOCS\02_DDR TEMPLATE\RK3568_TEMPLATE_LP4XD200P132SD6_43X28_1600MHZ\RK3568_TEMPLATE_LP4XD200P132SD6_43X28_1600MHZ_V10_20210201.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "11.RK3568_DDR PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 411 28 576")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\GITHUB\RK3568-MINI-PC\02.DOCS\02_DDR TEMPLATE\RK3568_TEMPLATE_LP4XD200P132SD6_43X28_1600MHZ\RK3568_TEMPLATE_LP4XD200P132SD6_43X28_1600MHZ_V10_20210201.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "12.RK3568_OSC/PLL/PMUIO"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 411 28 576")
+        (Scroll "0 60")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\GITHUB\RK3568-MINI-PC\02.DOCS\02_DDR TEMPLATE\RK3568_TEMPLATE_LP4XD200P132SD6_43X28_1600MHZ\RK3568_TEMPLATE_LP4XD200P132SD6_43X28_1600MHZ_V10_20210201.DSN")
+      (Schematic "RK3568_AIoT_REF_SCH")
+      (Page "38.DRAM-LPDDR4X_1X32bit_200P"))))
